@@ -2,7 +2,7 @@
 
 This repository demonstrates how to version react native apps using `npm version`.
 
-Read the blog post here - https://medium.com/@andr3wjack/versioning-react-native-apps-407469707661#.ivjfdfed3
+Read the blog post here - https://blog.andrewjack.uk/versioning-react-native-apps
 
 License
 -------
